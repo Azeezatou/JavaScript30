@@ -49,10 +49,10 @@ kbd {
     .key{
         display: flex;
         flex-direction: column; 
-        width:6rem ;
-        padding: 5px ;
-        margin: 5px;
-        font-size: 25px;
+        width: 6rem;
+        padding: 4px;
+        margin: 4px;
+        font-size: 20px;
         text-align: center;
         border: 2px solid black;
         border-radius: 12px;
@@ -62,6 +62,6 @@ kbd {
     }
     kbd {
         display: block;
-        font-size: 2rem;
+        font-size: 1.5rem;
     }
 }
